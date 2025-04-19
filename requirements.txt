@@ -1,0 +1,1 @@
+git pushDjango~=5.2
